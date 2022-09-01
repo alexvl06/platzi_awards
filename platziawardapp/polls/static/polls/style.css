@@ -1,0 +1,13 @@
+li a {
+    color: red;
+    font-weight: bolder;
+}
+
+ul {
+    margin-top: 50px;
+    margin-left: 200px;
+}
+
+body{
+    background: white url('./images/giphy_vote.gif') no-repeat;
+}
